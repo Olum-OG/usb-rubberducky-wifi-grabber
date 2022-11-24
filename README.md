@@ -15,3 +15,5 @@
 5. Done. Plug your USB RUBBER DUCKY in and a few seconds later you will receve the wifi passwords on the webhook site.
 
 If you have any Questions/Issues feel free to ask me :D
+
+Discord: Olum#4953
