@@ -11,9 +11,9 @@
 
 ![Screenshot 2022-11-24 133147](https://user-images.githubusercontent.com/56028709/203788008-e449dd7c-6ad2-422e-bdd6-2141cbc0c30f.png)
 
-4. Now Encode the payload.txt (for example on https://ducktoolkit.com/encode) and put the inject.bin file on your USB RUBBER DUCKY.
-5. Done. Plug your USB RUBBER DUCKY in and a few seconds later you will receve the wifi passwords on the webhook site.
+4. Now encode the payload.txt (for example on https://ducktoolkit.com/encode) and put the inject.bin file on your USB RUBBER DUCKY.
+5. Done. Plug your USB RUBBER DUCKY in and a few seconds later you will receive the wifi passwords on the webhook site.
 
-If you have any Questions/Issues feel free to ask me :D
+If you have any Questions/Issues, feel free to ask me :D
 
 Discord: Olum#4953
